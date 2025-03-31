@@ -1,4 +1,4 @@
-      Program ArithmeticOperations 
+       Program ArithmeticOperations 
        implicit none
        ! Declare two integer variable A and B 
        integer :: A,B
@@ -6,8 +6,8 @@
        integer :: QUOTIENT
        integer :: file_unit 
        ! set values
-       A = 1000
-       B = 1200
+       A = 56
+       B = 56
        !SUM = A + B
        call PRINTSUM (A,B)  
        PRODUCT = A * B
