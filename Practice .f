@@ -6,8 +6,8 @@
        integer :: QUOTIENT
        integer :: file_unit 
        ! set values
-       A = 10
-       B = 12
+       A = 1000
+       B = 1200
        !SUM = A + B
        call PRINTSUM (A,B)  
        PRODUCT = A * B
